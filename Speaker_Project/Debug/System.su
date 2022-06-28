@@ -1,0 +1,9 @@
+core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+core_cm0plus.h:848:22:__NVIC_SetPriority	24	static
+System.c:16:6:System_Init	8	static
+System.c:25:6:System_Timer_Init	8	static
+System.c:55:6:System_Timer2_Init	8	static
+System.c:69:6:TIM3_IRQHandler	8	static
+System.c:77:6:TIM2_IRQHandler	8	static
+System.c:99:6:System_Alternate_LED_Init	8	static
+System.c:112:6:Delay	16	static
