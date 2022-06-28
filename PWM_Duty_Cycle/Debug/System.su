@@ -1,0 +1,17 @@
+core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+core_cm0plus.h:848:22:__NVIC_SetPriority	24	static
+System.c:25:6:System_Init	8	static
+System.c:37:6:System_Timer_Init	8	static
+System.c:66:9:Display_Number	16	static
+System.c:88:6:TIM3_IRQHandler	8	static
+System.c:124:6:System_Alternate_LED_Init	8	static
+System.c:136:6:EXTI0_1_IRQHandler	8	static
+System.c:197:6:EXTI4_15_IRQHandler	8	static
+System.c:232:6:EXTI2_3_IRQHandler	8	static
+System.c:363:6:System_Keypad_Output_Init	8	static
+System.c:378:6:System_Keypad_Set	8	static
+System.c:385:6:System_Keypad_Reset	8	static
+System.c:392:6:System_Keypad_Button_Init	8	static
+System.c:435:6:Delay	16	static
+System.c:438:6:UART_Init	16	static
+System.c:468:6:printNumber	16	static
